@@ -1,4 +1,0 @@
-#ifndef EXTREF2BIB_HXX_
-#define EXTREF2BIB_HXX_
-
-#endif /// EXTREF2BIB_HXX_
