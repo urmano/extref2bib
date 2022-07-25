@@ -1,0 +1,3 @@
+[submodule "deps/json_spirit"]
+	path = deps/json_spirit
+	url = https://github.com/cierelabs/json_spirit.git
